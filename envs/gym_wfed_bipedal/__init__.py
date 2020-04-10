@@ -1,0 +1,1 @@
+from envs.gym_wfed_bipedal.wefd_bipedal_env import WfedBipedalEnv
